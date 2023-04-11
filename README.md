@@ -11,8 +11,10 @@ The third page displays our entire game. We made 6 different shape which are:
 4. Diamond
 5. Triangle
 6. Octagon
+
 Now in this page we also displayed a color bomb which is of pyramid shape. User will play the game in this screen. After the game is over. Our fourth and last page is displayed. This page display the final score and the username.
 We have also done file handling, the name and the score of the user is stored in that “txt” file.
+
 Variables:
 1. msg1 db
 2. msg2 db
